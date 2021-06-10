@@ -1,4 +1,4 @@
-# Project Title
+# Recreating Google.com Homepage
 
 Recreating the Google homepage using only HTML & CSS.
 
